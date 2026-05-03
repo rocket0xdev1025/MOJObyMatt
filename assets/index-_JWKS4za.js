@@ -26378,7 +26378,7 @@ function bN() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center",
             children: [
               S.jsx(Se.a, {
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 whileHover: { scale: 1.05, rotate: -1 },
@@ -26928,10 +26928,10 @@ function RN() {
                       "font-body text-mojo-dark text-xs md:text-sm bg-mojo-cream/50 rounded-lg px-4 py-3 border border-dashed border-mojo-dark/10 break-all select-all cursor-pointer",
                     onClick: () =>
                       navigator.clipboard.writeText(
-                        "0xcomingsoon"
+                        "0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e"
                       ),
                     children: [
-                      "0xcomingsoon",
+                      "0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e",
                       S.jsx("span", {
                         className: "ml-2 text-mojo-orange text-xs",
                         children: "📋 click to copy",
@@ -26945,7 +26945,7 @@ function RN() {
                   "flex flex-col sm:flex-row gap-4 justify-center items-center",
                 children: [
                   S.jsx(Se.a, {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     whileHover: { scale: 1.05, rotate: -1 },
@@ -26955,7 +26955,7 @@ function RN() {
                     children: "Buy",
                   }),
                   S.jsxs(Se.a, {
-                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                    href: "https://dexscreener.com/ethereum/0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     whileHover: { scale: 1.05, rotate: 1 },
@@ -27286,7 +27286,7 @@ const LN = [
   { label: "Discord", href: "#" },
   {
     label: "BUY",
-    href: "https://dexscreener.com/ethereum/0xcomingsoon",
+    href: "https://dexscreener.com/ethereum/0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e",
   },
 ];
 function MN() {
@@ -27420,7 +27420,7 @@ function DN() {
               ),
             }),
             S.jsx("a", {
-              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+              href: "https://dexscreener.com/ethereum/0x112ccB5107D334f0Cb11c7114F85d21dc516CE0e",
               className:
                 "font-heading text-lg px-6 py-2 rounded-full border-2 transition-all hover:scale-105",
               style: {
