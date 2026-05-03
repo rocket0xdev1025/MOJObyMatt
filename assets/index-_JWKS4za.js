@@ -26378,7 +26378,7 @@ function bN() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center",
             children: [
               S.jsx(Se.a, {
-                href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 whileHover: { scale: 1.05, rotate: -1 },
@@ -26945,7 +26945,7 @@ function RN() {
                   "flex flex-col sm:flex-row gap-4 justify-center items-center",
                 children: [
                   S.jsx(Se.a, {
-                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     whileHover: { scale: 1.05, rotate: -1 },
