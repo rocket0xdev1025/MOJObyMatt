@@ -27027,7 +27027,7 @@ const AN = [
     name: "Twitter / X",
     emoji: "🐦",
     description: "Follow for memes, updates, and daily doses of Mojo energy",
-    url: "https://x.com/mattfurie_mojo",
+    url: "https://x.com/mattfurie_mojoX",
     color: "from-sky-50 to-blue-50",
     borderHover: "hover:border-sky-300",
     tag: "@MojoOnSol",
@@ -27281,7 +27281,7 @@ function jN() {
   });
 }
 const LN = [
-  { label: "Twitter / X", href: "https://x.com/mattfurie_mojo" },
+  { label: "Twitter / X", href: "https://x.com/mattfurie_mojoX" },
   { label: "Telegram", href: "https://t.me/mattfurie_mojo" },
   { label: "Discord", href: "#" },
   {
