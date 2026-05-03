@@ -26388,7 +26388,7 @@ function bN() {
                 children: "Buy",
               }),
               S.jsx(Se.a, {
-                href: "https:/https://x.com/mattfurie_mojo/MojoERC20",
+                href: "https://t.me/mattfurie_mojo",
                 whileHover: { scale: 1.05, rotate: 1 },
                 whileTap: { scale: 0.95 },
                 className:
@@ -27027,7 +27027,7 @@ const AN = [
     name: "Twitter / X",
     emoji: "🐦",
     description: "Follow for memes, updates, and daily doses of Mojo energy",
-    url: "https:/https://x.com/mattfurie_mojo/MojoERC20",
+    url: "https://x.com/mattfurie_mojo",
     color: "from-sky-50 to-blue-50",
     borderHover: "hover:border-sky-300",
     tag: "@MojoOnSol",
@@ -27036,7 +27036,7 @@ const AN = [
     name: "Telegram",
     emoji: "✈️",
     description: "Join the chat — where the real ones hang out 24/7",
-    url: "https:/https://t.me/mattfurie_mojo/MOJOon_Sol",
+    url: "https://t.me/mattfurie_mojo",
     color: "from-blue-50 to-cyan-50",
     borderHover: "hover:border-blue-300",
     tag: "Join Group",
@@ -27281,8 +27281,8 @@ function jN() {
   });
 }
 const LN = [
-  { label: "Twitter / X", href: "https:/https://x.com/mattfurie_mojo/MojoERC20" },
-  { label: "Telegram", href: "https:/https://t.me/mattfurie_mojo/MOJOon_Sol" },
+  { label: "Twitter / X", href: "https://x.com/mattfurie_mojo" },
+  { label: "Telegram", href: "https://t.me/mattfurie_mojo" },
   { label: "Discord", href: "#" },
   {
     label: "BUY",
@@ -27408,7 +27408,7 @@ function DN() {
                     {
                       href:
                         t.toLowerCase() === "community"
-                          ? "https:/https://x.com/mattfurie_mojo/MojoERC20"
+                          ? "https://t.me/mattfurie_mojo"
                           : `#${t.toLowerCase()}`,
                       className:
                         "font-heading text-lg px-5 py-2 rounded-full bg-white border-2 transition-all hover:-rotate-1",
