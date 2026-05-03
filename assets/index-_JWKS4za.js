@@ -26268,7 +26268,7 @@ function xN({ className: t = "", size: e = 50, color: r = "#ff8d02" }) {
   });
 }
 const SN =
-  "https://media.base44.com/images/public/user_69a2d7ff5ed8bd83fe10039e/46baf4dd9_ChatGPTImageApr10202603_47_02PM.png";
+  "/media.base44.com/images/public/user_69a2d7ff5ed8bd83fe10039e/46baf4dd9_ChatGPTImageApr10202603_47_02PM.png";
 function bN() {
   return S.jsxs("section", {
     className:
@@ -26378,7 +26378,7 @@ function bN() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center",
             children: [
               S.jsx(Se.a, {
-                href: "https://dexscreener.com/ethereum/0x2788696f77dae73ec4cdbb6ef104540e3de56196",
+                href: "https://dexscreener.com/ethereum/0xcomingsoon",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 whileHover: { scale: 1.05, rotate: -1 },
@@ -26388,7 +26388,7 @@ function bN() {
                 children: "Buy",
               }),
               S.jsx(Se.a, {
-                href: "https://x.com/MojoERC20",
+                href: "https:/https://x.com/mattfurie_mojo/MojoERC20",
                 whileHover: { scale: 1.05, rotate: 1 },
                 whileTap: { scale: 0.95 },
                 className:
@@ -26489,7 +26489,7 @@ function kN() {
   });
 }
 const EN =
-    "https://media.base44.com/images/public/user_69a2d7ff5ed8bd83fe10039e/7c8da3e30_Untitleddesign-2026-04-10T154851225.png",
+    "/media.base44.com/images/public/user_69a2d7ff5ed8bd83fe10039e/7c8da3e30_Untitleddesign-2026-04-10T154851225.png",
   to = {
     initial: { y: 40, opacity: 0 },
     whileInView: { y: 0, opacity: 1 },
@@ -26928,10 +26928,10 @@ function RN() {
                       "font-body text-mojo-dark text-xs md:text-sm bg-mojo-cream/50 rounded-lg px-4 py-3 border border-dashed border-mojo-dark/10 break-all select-all cursor-pointer",
                     onClick: () =>
                       navigator.clipboard.writeText(
-                        "0x58F27eCfb84034f093d57397F744bfC6bEbED27D"
+                        "0xcomingsoon"
                       ),
                     children: [
-                      "0x58F27eCfb84034f093d57397F744bfC6bEbED27D",
+                      "0xcomingsoon",
                       S.jsx("span", {
                         className: "ml-2 text-mojo-orange text-xs",
                         children: "📋 click to copy",
@@ -26945,7 +26945,7 @@ function RN() {
                   "flex flex-col sm:flex-row gap-4 justify-center items-center",
                 children: [
                   S.jsx(Se.a, {
-                    href: "https://dexscreener.com/ethereum/0x2788696f77dae73ec4cdbb6ef104540e3de56196",
+                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     whileHover: { scale: 1.05, rotate: -1 },
@@ -26955,7 +26955,7 @@ function RN() {
                     children: "Buy",
                   }),
                   S.jsxs(Se.a, {
-                    href: "https://dexscreener.com/ethereum/0x2788696f77dae73ec4cdbb6ef104540e3de56196",
+                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     whileHover: { scale: 1.05, rotate: 1 },
@@ -27027,7 +27027,7 @@ const AN = [
     name: "Twitter / X",
     emoji: "🐦",
     description: "Follow for memes, updates, and daily doses of Mojo energy",
-    url: "https://x.com/MojoERC20",
+    url: "https:/https://x.com/mattfurie_mojo/MojoERC20",
     color: "from-sky-50 to-blue-50",
     borderHover: "hover:border-sky-300",
     tag: "@MojoOnSol",
@@ -27036,7 +27036,7 @@ const AN = [
     name: "Telegram",
     emoji: "✈️",
     description: "Join the chat — where the real ones hang out 24/7",
-    url: "https://t.me/MOJOon_Sol",
+    url: "https:/https://t.me/mattfurie_mojo/MOJOon_Sol",
     color: "from-blue-50 to-cyan-50",
     borderHover: "hover:border-blue-300",
     tag: "Join Group",
@@ -27157,42 +27157,42 @@ function NN() {
 }
 const ON = [
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/3be4ec5b4_GRsY2ulaUAEaO8s.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/3be4ec5b4_GRsY2ulaUAEaO8s.jpg",
     alt: "$MOJO distracted boyfriend meme",
     rotate: -2,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/0b138903b_GRsMaNebgAAGxsc.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/0b138903b_GRsMaNebgAAGxsc.jpg",
     alt: "Mojo swimming underwater meme",
     rotate: 1,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/8bae9b96f_GRs97xebMAEj5-_.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/8bae9b96f_GRs97xebMAEj5-_.jpg",
     alt: "Mojo Abbey Road crosswalk",
     rotate: -1,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/01fd25ba2_images70.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/01fd25ba2_images70.jpg",
     alt: "Mojo at the bar with frens",
     rotate: 2,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/248998c03_images69.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/248998c03_images69.jpg",
     alt: "$MOJO party bitch",
     rotate: -1.5,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/e8f132c91_images68.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/e8f132c91_images68.jpg",
     alt: "$MOJO distracted meme v2",
     rotate: 1.5,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/c55ec0841_images67.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/c55ec0841_images67.jpg",
     alt: "Mojo holding $MOJO sign",
     rotate: -2,
   },
   {
-    src: "https://media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/d5b45d937_GOODV87bMAADVw4.jpg",
+    src: "/media.base44.com/images/public/69d8bdbf92c972afa33fbfeb/d5b45d937_GOODV87bMAADVw4.jpg",
     alt: "Mojo origin timeline",
     rotate: 1,
   },
@@ -27281,12 +27281,12 @@ function jN() {
   });
 }
 const LN = [
-  { label: "Twitter / X", href: "https://x.com/MojoERC20" },
-  { label: "Telegram", href: "https://t.me/MOJOon_Sol" },
+  { label: "Twitter / X", href: "https:/https://x.com/mattfurie_mojo/MojoERC20" },
+  { label: "Telegram", href: "https:/https://t.me/mattfurie_mojo/MOJOon_Sol" },
   { label: "Discord", href: "#" },
   {
     label: "BUY",
-    href: "https://dexscreener.com/ethereum/0x2788696f77dae73ec4cdbb6ef104540e3de56196",
+    href: "https://dexscreener.com/ethereum/0xcomingsoon",
   },
 ];
 function MN() {
@@ -27408,7 +27408,7 @@ function DN() {
                     {
                       href:
                         t.toLowerCase() === "community"
-                          ? "https://x.com/MojoERC20"
+                          ? "https:/https://x.com/mattfurie_mojo/MojoERC20"
                           : `#${t.toLowerCase()}`,
                       className:
                         "font-heading text-lg px-5 py-2 rounded-full bg-white border-2 transition-all hover:-rotate-1",
@@ -27420,7 +27420,7 @@ function DN() {
               ),
             }),
             S.jsx("a", {
-              href: "https://dexscreener.com/ethereum/0x2788696f77dae73ec4cdbb6ef104540e3de56196",
+              href: "https://dexscreener.com/ethereum/0xcomingsoon",
               className:
                 "font-heading text-lg px-6 py-2 rounded-full border-2 transition-all hover:scale-105",
               style: {

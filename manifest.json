@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="https://media.base44.com/images/public/user_69a2d7ff5ed8bd83fe10039e/46baf4dd9_ChatGPTImageApr10202603_47_02PM.png" />
+    <link rel="icon" type="image/png" href="/media.base44.com/images/public/user_69a2d7ff5ed8bd83fe10039e/46baf4dd9_ChatGPTImageApr10202603_47_02PM.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="manifest" href="/manifest.json" />
     <title>MOJO by MattFurie</title>
@@ -12,9 +12,9 @@
       #community {
         display: none !important;
       }
-      
+      https:/https://t.me/mattfurie_mojo/MOJOon_Sol"
       /* Hide Telegram from footer */
-      footer a[href="https://t.me/MOJOon_Sol"] {
+      footer a[href="] {
         display: none !important;
       }
       
